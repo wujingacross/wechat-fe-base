@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wujingacross/wechat-fe-base/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wujingacross/wechat-fe-base/static/js/main.62ba581e.chunk.js",
+    "main.js.map": "/wujingacross/wechat-fe-base/static/js/main.62ba581e.chunk.js.map",
+    "runtime-main.js": "/wujingacross/wechat-fe-base/static/js/runtime-main.2868b2bc.js",
+    "runtime-main.js.map": "/wujingacross/wechat-fe-base/static/js/runtime-main.2868b2bc.js.map",
+    "static/js/2.ad00381f.chunk.js": "/wujingacross/wechat-fe-base/static/js/2.ad00381f.chunk.js",
+    "static/js/2.ad00381f.chunk.js.map": "/wujingacross/wechat-fe-base/static/js/2.ad00381f.chunk.js.map",
+    "index.html": "/wujingacross/wechat-fe-base/index.html",
+    "precache-manifest.4c9d735cf8561b16bb5ec9b436227a6d.js": "/wujingacross/wechat-fe-base/precache-manifest.4c9d735cf8561b16bb5ec9b436227a6d.js",
+    "service-worker.js": "/wujingacross/wechat-fe-base/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wujingacross/wechat-fe-base/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ad00381f.chunk.js.LICENSE.txt": "/wujingacross/wechat-fe-base/static/js/2.ad00381f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wujingacross/wechat-fe-base/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2868b2bc.js",
+    "static/js/2.ad00381f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.62ba581e.chunk.js"
+  ]
+}
