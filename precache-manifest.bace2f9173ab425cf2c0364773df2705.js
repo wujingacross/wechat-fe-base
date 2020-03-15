@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4064fb7e438a11db372b735bd4a91072",
+    "revision": "7084234db59a4735995fe94f45baa5fd",
     "url": "/wechat-fe-base/index.html"
   },
   {
-    "revision": "cb55dae4295c3048a179",
+    "revision": "43fe49dad498f507a58f",
     "url": "/wechat-fe-base/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wechat-fe-base/static/js/2.ad00381f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb55dae4295c3048a179",
-    "url": "/wechat-fe-base/static/js/main.cd36343a.chunk.js"
+    "revision": "43fe49dad498f507a58f",
+    "url": "/wechat-fe-base/static/js/main.3b417521.chunk.js"
   },
   {
     "revision": "7cf800e4f4ddeb081b3d",

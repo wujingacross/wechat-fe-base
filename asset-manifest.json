@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wechat-fe-base/static/css/main.5f361e03.chunk.css",
-    "main.js": "/wechat-fe-base/static/js/main.cd36343a.chunk.js",
-    "main.js.map": "/wechat-fe-base/static/js/main.cd36343a.chunk.js.map",
+    "main.js": "/wechat-fe-base/static/js/main.3b417521.chunk.js",
+    "main.js.map": "/wechat-fe-base/static/js/main.3b417521.chunk.js.map",
     "runtime-main.js": "/wechat-fe-base/static/js/runtime-main.3c8f660d.js",
     "runtime-main.js.map": "/wechat-fe-base/static/js/runtime-main.3c8f660d.js.map",
     "static/js/2.ad00381f.chunk.js": "/wechat-fe-base/static/js/2.ad00381f.chunk.js",
     "static/js/2.ad00381f.chunk.js.map": "/wechat-fe-base/static/js/2.ad00381f.chunk.js.map",
     "index.html": "/wechat-fe-base/index.html",
-    "precache-manifest.d7a8afa946c6886a6d13b4d5331c82d1.js": "/wechat-fe-base/precache-manifest.d7a8afa946c6886a6d13b4d5331c82d1.js",
+    "precache-manifest.bace2f9173ab425cf2c0364773df2705.js": "/wechat-fe-base/precache-manifest.bace2f9173ab425cf2c0364773df2705.js",
     "service-worker.js": "/wechat-fe-base/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/wechat-fe-base/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.ad00381f.chunk.js.LICENSE.txt": "/wechat-fe-base/static/js/2.ad00381f.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3c8f660d.js",
     "static/js/2.ad00381f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cd36343a.chunk.js"
+    "static/js/main.3b417521.chunk.js"
   ]
 }
